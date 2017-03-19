@@ -7,7 +7,7 @@
 
 [Description](https://github.com/TeamTODOPASS/strive-for-success/blob/master/project-description.md)
 
-###:mortar_board:Team Members
+### Team Members
 | Name              | Academy Username      	|
 |-------------------|-------------------|
 |                   | :white_check_mark:|
